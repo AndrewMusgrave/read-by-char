@@ -1,0 +1,23 @@
+{
+  "name": "read-by-char",
+  "version": "0.1.0",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Andrew Musgrave",
+    "email": "andrewdmusgrave@gmail.com",
+    "url": "https://github.com/AndrewMusgrave"
+  },
+  "repository": "AndrewMusgrave/read-by-char",
+  "keywords": [
+    "fs",
+    "readfile",
+    "read",
+    "char"
+  ]
+}
